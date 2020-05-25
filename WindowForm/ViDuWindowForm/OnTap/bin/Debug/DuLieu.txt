@@ -1,0 +1,5 @@
+17150004; tran duc anh; ktpm16; nam; Ha noi; 26/01/1999
+17150000; Tran Duc Hieu; CNTT16; nam; HaNoi; 15/10/1999
+17150001; Tran Duc Quang; ktmp16; nam; Hanoi; 15/10/2019
+17150002; Nguyen Quang Long; CNTT16; nam; HaNoi; 12/10/1999
+17150003; Nguyen Quang Trung; CNTT16; nam; Hanoi; 20/10/1999

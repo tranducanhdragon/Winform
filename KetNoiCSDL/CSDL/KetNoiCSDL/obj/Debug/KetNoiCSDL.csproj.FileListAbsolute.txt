@@ -1,0 +1,9 @@
+C:\Users\Computer\Desktop\NgonNguLT\KetNoiCSDL\CSDL\KetNoiCSDL\bin\Debug\KetNoiCSDL.exe.config
+C:\Users\Computer\Desktop\NgonNguLT\KetNoiCSDL\CSDL\KetNoiCSDL\bin\Debug\KetNoiCSDL.exe
+C:\Users\Computer\Desktop\NgonNguLT\KetNoiCSDL\CSDL\KetNoiCSDL\bin\Debug\KetNoiCSDL.pdb
+C:\Users\Computer\Desktop\NgonNguLT\KetNoiCSDL\CSDL\KetNoiCSDL\obj\Debug\KetNoiCSDL.Form1.resources
+C:\Users\Computer\Desktop\NgonNguLT\KetNoiCSDL\CSDL\KetNoiCSDL\obj\Debug\KetNoiCSDL.Properties.Resources.resources
+C:\Users\Computer\Desktop\NgonNguLT\KetNoiCSDL\CSDL\KetNoiCSDL\obj\Debug\KetNoiCSDL.csproj.GenerateResource.Cache
+C:\Users\Computer\Desktop\NgonNguLT\KetNoiCSDL\CSDL\KetNoiCSDL\obj\Debug\KetNoiCSDL.exe
+C:\Users\Computer\Desktop\NgonNguLT\KetNoiCSDL\CSDL\KetNoiCSDL\obj\Debug\KetNoiCSDL.pdb
+C:\Users\Computer\Desktop\NgonNguLT\KetNoiCSDL\CSDL\KetNoiCSDL\obj\Debug\KetNoiCSDL.csprojResolveAssemblyReference.cache

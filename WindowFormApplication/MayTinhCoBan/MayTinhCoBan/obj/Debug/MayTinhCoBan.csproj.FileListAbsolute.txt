@@ -1,0 +1,8 @@
+C:\Users\Computer\Desktop\NgonNguLT\WindowFormApplication\MayTinhCoBan\MayTinhCoBan\bin\Debug\MayTinhCoBan.exe.config
+C:\Users\Computer\Desktop\NgonNguLT\WindowFormApplication\MayTinhCoBan\MayTinhCoBan\bin\Debug\MayTinhCoBan.exe
+C:\Users\Computer\Desktop\NgonNguLT\WindowFormApplication\MayTinhCoBan\MayTinhCoBan\bin\Debug\MayTinhCoBan.pdb
+C:\Users\Computer\Desktop\NgonNguLT\WindowFormApplication\MayTinhCoBan\MayTinhCoBan\obj\Debug\MayTinhCoBan.Form1.resources
+C:\Users\Computer\Desktop\NgonNguLT\WindowFormApplication\MayTinhCoBan\MayTinhCoBan\obj\Debug\MayTinhCoBan.Properties.Resources.resources
+C:\Users\Computer\Desktop\NgonNguLT\WindowFormApplication\MayTinhCoBan\MayTinhCoBan\obj\Debug\MayTinhCoBan.csproj.GenerateResource.Cache
+C:\Users\Computer\Desktop\NgonNguLT\WindowFormApplication\MayTinhCoBan\MayTinhCoBan\obj\Debug\MayTinhCoBan.exe
+C:\Users\Computer\Desktop\NgonNguLT\WindowFormApplication\MayTinhCoBan\MayTinhCoBan\obj\Debug\MayTinhCoBan.pdb

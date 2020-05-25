@@ -1,0 +1,6 @@
+C:\Users\Computer\Desktop\NgonNguLT\OnTapHackerRank\TimeConversion\unusualDictionary\bin\Debug\unusualDictionary.exe.config
+C:\Users\Computer\Desktop\NgonNguLT\OnTapHackerRank\TimeConversion\unusualDictionary\bin\Debug\unusualDictionary.exe
+C:\Users\Computer\Desktop\NgonNguLT\OnTapHackerRank\TimeConversion\unusualDictionary\bin\Debug\unusualDictionary.pdb
+C:\Users\Computer\Desktop\NgonNguLT\OnTapHackerRank\TimeConversion\unusualDictionary\obj\Debug\unusualDictionary.csprojResolveAssemblyReference.cache
+C:\Users\Computer\Desktop\NgonNguLT\OnTapHackerRank\TimeConversion\unusualDictionary\obj\Debug\unusualDictionary.exe
+C:\Users\Computer\Desktop\NgonNguLT\OnTapHackerRank\TimeConversion\unusualDictionary\obj\Debug\unusualDictionary.pdb

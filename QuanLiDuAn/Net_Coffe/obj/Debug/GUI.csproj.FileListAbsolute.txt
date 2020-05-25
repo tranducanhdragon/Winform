@@ -1,0 +1,48 @@
+D:\Visual Studio\Net_Coffe\Net_Coffe\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\Visual Studio\Net_Coffe\Net_Coffe\obj\Debug\Net_Coffe.Form1.resources
+D:\Visual Studio\Net_Coffe\Net_Coffe\obj\Debug\Net_Coffe.Form_Children.Form_NhanVien.resources
+D:\Visual Studio\Net_Coffe\Net_Coffe\obj\Debug\Net_Coffe.Form_Children.Form_PhongMay.resources
+D:\Visual Studio\Net_Coffe\Net_Coffe\obj\Debug\Net_Coffe.Form_Children.Form_TaiKhoan.resources
+D:\Visual Studio\Net_Coffe\Net_Coffe\obj\Debug\Net_Coffe.Properties.Resources.resources
+D:\Visual Studio\Net_Coffe\Net_Coffe\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Visual Studio\Net_Coffe\Net_Coffe\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Net_Coffe\Net_Coffe\obj\Debug\Net_Coffe.exe
+D:\Visual Studio\Net_Coffe\Net_Coffe\obj\Debug\Net_Coffe.pdb
+D:\Visual Studio\Net_Coffe\Net_Coffe\bin\Debug\Net_Coffe.exe.config
+D:\Visual Studio\Net_Coffe\Net_Coffe\bin\Debug\Net_Coffe.exe
+D:\Visual Studio\Net_Coffe\Net_Coffe\bin\Debug\Net_Coffe.pdb
+D:\Visual Studio\Net_Coffe\Net_Coffe\bin\Debug\BLL.dll
+D:\Visual Studio\Net_Coffe\Net_Coffe\bin\Debug\DTO.dll
+D:\Visual Studio\Net_Coffe\Net_Coffe\bin\Debug\DAL.dll
+D:\Visual Studio\Net_Coffe\Net_Coffe\bin\Debug\BLL.pdb
+D:\Visual Studio\Net_Coffe\Net_Coffe\bin\Debug\DTO.pdb
+D:\Visual Studio\Net_Coffe\Net_Coffe\bin\Debug\DAL.pdb
+D:\Visual Studio\Net_Coffe\Net_Coffe\obj\Debug\GUI.csproj.CopyComplete
+D:\Visual Studio\Net_Coffe\Net_Coffe\obj\Debug\Net_Coffe.Form_Children.ThemTaiKhoan.resources
+D:\Visual Studio\Net_Coffe\Net_Coffe\obj\Debug\Net_Coffe.Form_Children.SuaThongTinTaiKhoan.resources
+D:\Visual Studio\Net_Coffe\Net_Coffe\obj\Debug\Net_Coffe.Form_Children.ThongTinChiTietNhanVien.resources
+D:\Visual Studio\Net_Coffe\Net_Coffe\obj\Debug\Net_Coffe.Form_Children.ThemNhanVien.resources
+D:\Visual Studio\Net_Coffe\Net_Coffe\obj\Debug\Net_Coffe.Form_Children.NapTien.resources
+C:\Users\Computer\Desktop\NgonNguLT\QuanLiDuAn\Net_Coffe\bin\Debug\Net_Coffe.exe.config
+C:\Users\Computer\Desktop\NgonNguLT\QuanLiDuAn\Net_Coffe\bin\Debug\Net_Coffe.exe
+C:\Users\Computer\Desktop\NgonNguLT\QuanLiDuAn\Net_Coffe\bin\Debug\Net_Coffe.pdb
+C:\Users\Computer\Desktop\NgonNguLT\QuanLiDuAn\Net_Coffe\bin\Debug\BLL.dll
+C:\Users\Computer\Desktop\NgonNguLT\QuanLiDuAn\Net_Coffe\bin\Debug\DTO.dll
+C:\Users\Computer\Desktop\NgonNguLT\QuanLiDuAn\Net_Coffe\bin\Debug\DAL.dll
+C:\Users\Computer\Desktop\NgonNguLT\QuanLiDuAn\Net_Coffe\bin\Debug\BLL.pdb
+C:\Users\Computer\Desktop\NgonNguLT\QuanLiDuAn\Net_Coffe\bin\Debug\DTO.pdb
+C:\Users\Computer\Desktop\NgonNguLT\QuanLiDuAn\Net_Coffe\bin\Debug\DAL.pdb
+C:\Users\Computer\Desktop\NgonNguLT\QuanLiDuAn\Net_Coffe\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Computer\Desktop\NgonNguLT\QuanLiDuAn\Net_Coffe\obj\Debug\Net_Coffe.Form1.resources
+C:\Users\Computer\Desktop\NgonNguLT\QuanLiDuAn\Net_Coffe\obj\Debug\Net_Coffe.Form_Children.Form_NhanVien.resources
+C:\Users\Computer\Desktop\NgonNguLT\QuanLiDuAn\Net_Coffe\obj\Debug\Net_Coffe.Form_Children.Form_PhongMay.resources
+C:\Users\Computer\Desktop\NgonNguLT\QuanLiDuAn\Net_Coffe\obj\Debug\Net_Coffe.Form_Children.Form_TaiKhoan.resources
+C:\Users\Computer\Desktop\NgonNguLT\QuanLiDuAn\Net_Coffe\obj\Debug\Net_Coffe.Form_Children.NapTien.resources
+C:\Users\Computer\Desktop\NgonNguLT\QuanLiDuAn\Net_Coffe\obj\Debug\Net_Coffe.Form_Children.SuaThongTinTaiKhoan.resources
+C:\Users\Computer\Desktop\NgonNguLT\QuanLiDuAn\Net_Coffe\obj\Debug\Net_Coffe.Form_Children.ThemNhanVien.resources
+C:\Users\Computer\Desktop\NgonNguLT\QuanLiDuAn\Net_Coffe\obj\Debug\Net_Coffe.Form_Children.ThemTaiKhoan.resources
+C:\Users\Computer\Desktop\NgonNguLT\QuanLiDuAn\Net_Coffe\obj\Debug\Net_Coffe.Form_Children.ThongTinChiTietNhanVien.resources
+C:\Users\Computer\Desktop\NgonNguLT\QuanLiDuAn\Net_Coffe\obj\Debug\Net_Coffe.Properties.Resources.resources
+C:\Users\Computer\Desktop\NgonNguLT\QuanLiDuAn\Net_Coffe\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Computer\Desktop\NgonNguLT\QuanLiDuAn\Net_Coffe\obj\Debug\Net_Coffe.exe
+C:\Users\Computer\Desktop\NgonNguLT\QuanLiDuAn\Net_Coffe\obj\Debug\Net_Coffe.pdb

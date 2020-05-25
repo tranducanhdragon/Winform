@@ -1,0 +1,5 @@
+C:\Users\Computer\Desktop\NgonNguLT\GenericExample\ViDu\ViDuDelegate\bin\Debug\ViDuDelegate.exe.config
+C:\Users\Computer\Desktop\NgonNguLT\GenericExample\ViDu\ViDuDelegate\bin\Debug\ViDuDelegate.exe
+C:\Users\Computer\Desktop\NgonNguLT\GenericExample\ViDu\ViDuDelegate\bin\Debug\ViDuDelegate.pdb
+C:\Users\Computer\Desktop\NgonNguLT\GenericExample\ViDu\ViDuDelegate\obj\Debug\ViDuDelegate.exe
+C:\Users\Computer\Desktop\NgonNguLT\GenericExample\ViDu\ViDuDelegate\obj\Debug\ViDuDelegate.pdb

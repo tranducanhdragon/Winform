@@ -1,0 +1,6 @@
+C:\Users\Computer\Desktop\NgonNguLT\OnTapHackerRank\TimeConversion\TimeConversion\bin\Debug\TimeConversion.exe.config
+C:\Users\Computer\Desktop\NgonNguLT\OnTapHackerRank\TimeConversion\TimeConversion\bin\Debug\TimeConversion.exe
+C:\Users\Computer\Desktop\NgonNguLT\OnTapHackerRank\TimeConversion\TimeConversion\bin\Debug\TimeConversion.pdb
+C:\Users\Computer\Desktop\NgonNguLT\OnTapHackerRank\TimeConversion\TimeConversion\obj\Debug\TimeConversion.csprojResolveAssemblyReference.cache
+C:\Users\Computer\Desktop\NgonNguLT\OnTapHackerRank\TimeConversion\TimeConversion\obj\Debug\TimeConversion.exe
+C:\Users\Computer\Desktop\NgonNguLT\OnTapHackerRank\TimeConversion\TimeConversion\obj\Debug\TimeConversion.pdb

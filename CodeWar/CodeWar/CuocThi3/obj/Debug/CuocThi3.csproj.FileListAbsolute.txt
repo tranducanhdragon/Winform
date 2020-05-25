@@ -1,0 +1,6 @@
+C:\Users\Computer\Desktop\NgonNguLT\CodeWar\CodeWar\CuocThi3\bin\Debug\CuocThi3.exe.config
+C:\Users\Computer\Desktop\NgonNguLT\CodeWar\CodeWar\CuocThi3\bin\Debug\CuocThi3.exe
+C:\Users\Computer\Desktop\NgonNguLT\CodeWar\CodeWar\CuocThi3\bin\Debug\CuocThi3.pdb
+C:\Users\Computer\Desktop\NgonNguLT\CodeWar\CodeWar\CuocThi3\obj\Debug\CuocThi3.csprojResolveAssemblyReference.cache
+C:\Users\Computer\Desktop\NgonNguLT\CodeWar\CodeWar\CuocThi3\obj\Debug\CuocThi3.exe
+C:\Users\Computer\Desktop\NgonNguLT\CodeWar\CodeWar\CuocThi3\obj\Debug\CuocThi3.pdb

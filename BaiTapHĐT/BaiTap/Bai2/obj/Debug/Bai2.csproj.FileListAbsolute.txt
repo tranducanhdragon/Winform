@@ -1,0 +1,6 @@
+C:\Users\Computer\Desktop\NgonNguLT\BaiTapHĐT\BaiTap\Bai2\bin\Debug\Bai2.exe.config
+C:\Users\Computer\Desktop\NgonNguLT\BaiTapHĐT\BaiTap\Bai2\bin\Debug\Bai2.exe
+C:\Users\Computer\Desktop\NgonNguLT\BaiTapHĐT\BaiTap\Bai2\bin\Debug\Bai2.pdb
+C:\Users\Computer\Desktop\NgonNguLT\BaiTapHĐT\BaiTap\Bai2\obj\Debug\Bai2.csprojResolveAssemblyReference.cache
+C:\Users\Computer\Desktop\NgonNguLT\BaiTapHĐT\BaiTap\Bai2\obj\Debug\Bai2.exe
+C:\Users\Computer\Desktop\NgonNguLT\BaiTapHĐT\BaiTap\Bai2\obj\Debug\Bai2.pdb

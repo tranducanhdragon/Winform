@@ -1,0 +1,6 @@
+C:\Users\Computer\Desktop\NgonNguLT\GenericExample\ViDu\ViDuGeneric\bin\Debug\ViDuGeneric.exe.config
+C:\Users\Computer\Desktop\NgonNguLT\GenericExample\ViDu\ViDuGeneric\obj\Debug\ViDuGeneric.csprojResolveAssemblyReference.cache
+C:\Users\Computer\Desktop\NgonNguLT\GenericExample\ViDu\ViDuGeneric\bin\Debug\ViDuGeneric.exe
+C:\Users\Computer\Desktop\NgonNguLT\GenericExample\ViDu\ViDuGeneric\bin\Debug\ViDuGeneric.pdb
+C:\Users\Computer\Desktop\NgonNguLT\GenericExample\ViDu\ViDuGeneric\obj\Debug\ViDuGeneric.exe
+C:\Users\Computer\Desktop\NgonNguLT\GenericExample\ViDu\ViDuGeneric\obj\Debug\ViDuGeneric.pdb

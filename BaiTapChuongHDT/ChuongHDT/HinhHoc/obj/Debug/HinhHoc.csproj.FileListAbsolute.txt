@@ -1,0 +1,6 @@
+C:\Users\Computer\Desktop\NgonNguLT\BaiTapChuongHDT\ChuongHDT\HinhHoc\bin\Debug\HinhHoc.exe.config
+C:\Users\Computer\Desktop\NgonNguLT\BaiTapChuongHDT\ChuongHDT\HinhHoc\bin\Debug\HinhHoc.exe
+C:\Users\Computer\Desktop\NgonNguLT\BaiTapChuongHDT\ChuongHDT\HinhHoc\bin\Debug\HinhHoc.pdb
+C:\Users\Computer\Desktop\NgonNguLT\BaiTapChuongHDT\ChuongHDT\HinhHoc\obj\Debug\HinhHoc.csprojResolveAssemblyReference.cache
+C:\Users\Computer\Desktop\NgonNguLT\BaiTapChuongHDT\ChuongHDT\HinhHoc\obj\Debug\HinhHoc.exe
+C:\Users\Computer\Desktop\NgonNguLT\BaiTapChuongHDT\ChuongHDT\HinhHoc\obj\Debug\HinhHoc.pdb

@@ -1,0 +1,6 @@
+C:\Users\Computer\Desktop\NgonNguLT\BaiTapChuongHDT\ChuongHDT\OnTapVeAbstract\bin\Debug\OnTapVeAbstract.exe.config
+C:\Users\Computer\Desktop\NgonNguLT\BaiTapChuongHDT\ChuongHDT\OnTapVeAbstract\bin\Debug\OnTapVeAbstract.exe
+C:\Users\Computer\Desktop\NgonNguLT\BaiTapChuongHDT\ChuongHDT\OnTapVeAbstract\bin\Debug\OnTapVeAbstract.pdb
+C:\Users\Computer\Desktop\NgonNguLT\BaiTapChuongHDT\ChuongHDT\OnTapVeAbstract\obj\Debug\OnTapVeAbstract.exe
+C:\Users\Computer\Desktop\NgonNguLT\BaiTapChuongHDT\ChuongHDT\OnTapVeAbstract\obj\Debug\OnTapVeAbstract.pdb
+C:\Users\Computer\Desktop\NgonNguLT\BaiTapChuongHDT\ChuongHDT\OnTapVeAbstract\obj\Debug\OnTapVeAbstract.csprojResolveAssemblyReference.cache

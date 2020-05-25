@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FromConnecting", "FromConnecting\FromConnecting.csproj", "{65D3CCEB-84EE-4ADC-8288-84AB10031A31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DangKyVeMayBay", "DangKyVeMayBay\DangKyVeMayBay.csproj", "{917ED256-72A0-4618-A36D-625A30C64BDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65D3CCEB-84EE-4ADC-8288-84AB10031A31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65D3CCEB-84EE-4ADC-8288-84AB10031A31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65D3CCEB-84EE-4ADC-8288-84AB10031A31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65D3CCEB-84EE-4ADC-8288-84AB10031A31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{917ED256-72A0-4618-A36D-625A30C64BDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{917ED256-72A0-4618-A36D-625A30C64BDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{917ED256-72A0-4618-A36D-625A30C64BDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{917ED256-72A0-4618-A36D-625A30C64BDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\Computer\Desktop\NgonNguLT\OnTapHackerRank\TimeConversion\string_reverse\bin\Debug\string_reverse.exe.config
+C:\Users\Computer\Desktop\NgonNguLT\OnTapHackerRank\TimeConversion\string_reverse\bin\Debug\string_reverse.exe
+C:\Users\Computer\Desktop\NgonNguLT\OnTapHackerRank\TimeConversion\string_reverse\bin\Debug\string_reverse.pdb
+C:\Users\Computer\Desktop\NgonNguLT\OnTapHackerRank\TimeConversion\string_reverse\obj\Debug\string_reverse.exe
+C:\Users\Computer\Desktop\NgonNguLT\OnTapHackerRank\TimeConversion\string_reverse\obj\Debug\string_reverse.pdb
+C:\Users\Computer\Desktop\NgonNguLT\OnTapHackerRank\TimeConversion\string_reverse\obj\Debug\string_reverse.csprojResolveAssemblyReference.cache

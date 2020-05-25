@@ -1,0 +1,6 @@
+C:\Users\Computer\Desktop\NgonNguLT\OnTapCodeSignal\WeeklyChallenge\num\bin\Debug\num.exe.config
+C:\Users\Computer\Desktop\NgonNguLT\OnTapCodeSignal\WeeklyChallenge\num\bin\Debug\num.exe
+C:\Users\Computer\Desktop\NgonNguLT\OnTapCodeSignal\WeeklyChallenge\num\bin\Debug\num.pdb
+C:\Users\Computer\Desktop\NgonNguLT\OnTapCodeSignal\WeeklyChallenge\num\obj\Debug\num.csprojResolveAssemblyReference.cache
+C:\Users\Computer\Desktop\NgonNguLT\OnTapCodeSignal\WeeklyChallenge\num\obj\Debug\num.exe
+C:\Users\Computer\Desktop\NgonNguLT\OnTapCodeSignal\WeeklyChallenge\num\obj\Debug\num.pdb

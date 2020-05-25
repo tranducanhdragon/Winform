@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeConversion", "TimeConversion\TimeConversion.csproj", "{0AA86EC5-26F1-41FE-A4EF-6A5E6AF25162}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "string_reverse", "string_reverse\string_reverse.csproj", "{FC9D8AA7-F577-4372-B67B-CF4B8DB8EA30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unusualDictionary", "unusualDictionary\unusualDictionary.csproj", "{CA38ABE2-C3E6-45B1-919D-78097670009C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AA86EC5-26F1-41FE-A4EF-6A5E6AF25162}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AA86EC5-26F1-41FE-A4EF-6A5E6AF25162}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AA86EC5-26F1-41FE-A4EF-6A5E6AF25162}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AA86EC5-26F1-41FE-A4EF-6A5E6AF25162}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC9D8AA7-F577-4372-B67B-CF4B8DB8EA30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC9D8AA7-F577-4372-B67B-CF4B8DB8EA30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC9D8AA7-F577-4372-B67B-CF4B8DB8EA30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC9D8AA7-F577-4372-B67B-CF4B8DB8EA30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA38ABE2-C3E6-45B1-919D-78097670009C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA38ABE2-C3E6-45B1-919D-78097670009C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA38ABE2-C3E6-45B1-919D-78097670009C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA38ABE2-C3E6-45B1-919D-78097670009C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

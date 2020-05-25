@@ -1,0 +1,6 @@
+C:\Users\Computer\Desktop\NgonNguLT\GenericExample\ViDu\DelegateVaFile\bin\Debug\DelegateVaFile.exe.config
+C:\Users\Computer\Desktop\NgonNguLT\GenericExample\ViDu\DelegateVaFile\bin\Debug\DelegateVaFile.exe
+C:\Users\Computer\Desktop\NgonNguLT\GenericExample\ViDu\DelegateVaFile\bin\Debug\DelegateVaFile.pdb
+C:\Users\Computer\Desktop\NgonNguLT\GenericExample\ViDu\DelegateVaFile\obj\Debug\DelegateVaFile.exe
+C:\Users\Computer\Desktop\NgonNguLT\GenericExample\ViDu\DelegateVaFile\obj\Debug\DelegateVaFile.pdb
+C:\Users\Computer\Desktop\NgonNguLT\GenericExample\ViDu\DelegateVaFile\obj\Debug\DelegateVaFile.csprojResolveAssemblyReference.cache

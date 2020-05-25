@@ -1,0 +1,6 @@
+C:\Users\Computer\Desktop\NgonNguLT\CodeWar\CodeWar\Bai2.1\bin\Debug\Bai2.1.exe.config
+C:\Users\Computer\Desktop\NgonNguLT\CodeWar\CodeWar\Bai2.1\bin\Debug\Bai2.1.exe
+C:\Users\Computer\Desktop\NgonNguLT\CodeWar\CodeWar\Bai2.1\bin\Debug\Bai2.1.pdb
+C:\Users\Computer\Desktop\NgonNguLT\CodeWar\CodeWar\Bai2.1\obj\Debug\Bai2.1.exe
+C:\Users\Computer\Desktop\NgonNguLT\CodeWar\CodeWar\Bai2.1\obj\Debug\Bai2.1.pdb
+C:\Users\Computer\Desktop\NgonNguLT\CodeWar\CodeWar\Bai2.1\obj\Debug\Bai2.1.csprojResolveAssemblyReference.cache

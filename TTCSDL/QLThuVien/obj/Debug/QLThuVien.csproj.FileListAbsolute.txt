@@ -1,0 +1,118 @@
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\bin\Debug\QLThuVien.exe.config
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\bin\Debug\QLThuVien.exe
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\bin\Debug\QLThuVien.pdb
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\obj\Debug\QLThuVien.csprojResolveAssemblyReference.cache
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\obj\Debug\QLThuVien.Views.frmDangKi.resources
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\obj\Debug\QLThuVien.Views.frmLogin.resources
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\obj\Debug\QLThuVien.frmMain.resources
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\obj\Debug\QLThuVien.Properties.Resources.resources
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\obj\Debug\QLThuVien.csproj.GenerateResource.Cache
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\obj\Debug\QLThuVien.exe.licenses
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\obj\Debug\QLThuVien.exe
+C:\Users\Computer\Downloads\DaiHoc\Nam3\HocKyII\Ky 6\Thuc tap Co so du lieu\ThucTap\QLThuVien-master\QLThuVien\QLThuVien\obj\Debug\QLThuVien.pdb
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\bin\Debug\QLThuVien.exe.config
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\obj\Debug\QLThuVien.exe
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\obj\Debug\QLThuVien.pdb
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\bin\Debug\QLThuVien.exe
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\bin\Debug\QLThuVien.pdb
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\obj\Debug\QLThuVien.csprojResolveAssemblyReference.cache
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\obj\Debug\QLThuVien.Views.frmDangKi.resources
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\obj\Debug\QLThuVien.Views.frmLogin.resources
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\obj\Debug\QLThuVien.frmMain.resources
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\obj\Debug\QLThuVien.Properties.Resources.resources
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\obj\Debug\QLThuVien.csproj.GenerateResource.Cache
+C:\Users\Computer\Desktop\NgonNguLT\TTCSDL\QLThuVien\obj\Debug\QLThuVien.exe.licenses

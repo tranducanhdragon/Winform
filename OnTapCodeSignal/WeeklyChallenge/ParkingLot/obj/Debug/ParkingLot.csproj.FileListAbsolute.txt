@@ -1,0 +1,6 @@
+C:\Users\Computer\Desktop\NgonNguLT\OnTapCodeSignal\WeeklyChallenge\ParkingLot\bin\Debug\ParkingLot.exe.config
+C:\Users\Computer\Desktop\NgonNguLT\OnTapCodeSignal\WeeklyChallenge\ParkingLot\bin\Debug\ParkingLot.exe
+C:\Users\Computer\Desktop\NgonNguLT\OnTapCodeSignal\WeeklyChallenge\ParkingLot\bin\Debug\ParkingLot.pdb
+C:\Users\Computer\Desktop\NgonNguLT\OnTapCodeSignal\WeeklyChallenge\ParkingLot\obj\Debug\ParkingLot.csprojResolveAssemblyReference.cache
+C:\Users\Computer\Desktop\NgonNguLT\OnTapCodeSignal\WeeklyChallenge\ParkingLot\obj\Debug\ParkingLot.exe
+C:\Users\Computer\Desktop\NgonNguLT\OnTapCodeSignal\WeeklyChallenge\ParkingLot\obj\Debug\ParkingLot.pdb

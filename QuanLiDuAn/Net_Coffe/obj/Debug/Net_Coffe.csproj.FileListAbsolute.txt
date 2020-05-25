@@ -1,0 +1,13 @@
+D:\Visual Studio\Net_Coffe\Net_Coffe\bin\Debug\Net_Coffe.exe.config
+D:\Visual Studio\Net_Coffe\Net_Coffe\bin\Debug\Net_Coffe.exe
+D:\Visual Studio\Net_Coffe\Net_Coffe\bin\Debug\Net_Coffe.pdb
+D:\Visual Studio\Net_Coffe\Net_Coffe\obj\Debug\Net_Coffe.csprojAssemblyReference.cache
+D:\Visual Studio\Net_Coffe\Net_Coffe\obj\Debug\Net_Coffe.Form1.resources
+D:\Visual Studio\Net_Coffe\Net_Coffe\obj\Debug\Net_Coffe.Properties.Resources.resources
+D:\Visual Studio\Net_Coffe\Net_Coffe\obj\Debug\Net_Coffe.csproj.GenerateResource.cache
+D:\Visual Studio\Net_Coffe\Net_Coffe\obj\Debug\Net_Coffe.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Net_Coffe\Net_Coffe\obj\Debug\Net_Coffe.exe
+D:\Visual Studio\Net_Coffe\Net_Coffe\obj\Debug\Net_Coffe.pdb
+D:\Visual Studio\Net_Coffe\Net_Coffe\obj\Debug\Net_Coffe.Form_Children.Form_TaiKhoan.resources
+D:\Visual Studio\Net_Coffe\Net_Coffe\obj\Debug\Net_Coffe.Form_Children.Form_PhongMay.resources
+D:\Visual Studio\Net_Coffe\Net_Coffe\obj\Debug\Net_Coffe.Form_Children.Form_NhanVien.resources

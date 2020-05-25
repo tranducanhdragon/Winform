@@ -1,0 +1,6 @@
+C:\Users\Computer\Desktop\NgonNguLT\BaiTapChuongHDT\ChuongHDT\OnTap\bin\Debug\OnTap.exe.config
+C:\Users\Computer\Desktop\NgonNguLT\BaiTapChuongHDT\ChuongHDT\OnTap\bin\Debug\OnTap.exe
+C:\Users\Computer\Desktop\NgonNguLT\BaiTapChuongHDT\ChuongHDT\OnTap\bin\Debug\OnTap.pdb
+C:\Users\Computer\Desktop\NgonNguLT\BaiTapChuongHDT\ChuongHDT\OnTap\obj\Debug\OnTap.csprojResolveAssemblyReference.cache
+C:\Users\Computer\Desktop\NgonNguLT\BaiTapChuongHDT\ChuongHDT\OnTap\obj\Debug\OnTap.exe
+C:\Users\Computer\Desktop\NgonNguLT\BaiTapChuongHDT\ChuongHDT\OnTap\obj\Debug\OnTap.pdb

@@ -1,0 +1,10 @@
+C:\Users\Computer\Desktop\NgonNguLT\Ktra\KiemTra\MuaHangSieuThi\obj\Debug\MuaHangSieuThi.DatHang.resources
+C:\Users\Computer\Desktop\NgonNguLT\Ktra\KiemTra\MuaHangSieuThi\obj\Debug\MuaHangSieuThi.Properties.Resources.resources
+C:\Users\Computer\Desktop\NgonNguLT\Ktra\KiemTra\MuaHangSieuThi\obj\Debug\MuaHangSieuThi.XacNhan.resources
+C:\Users\Computer\Desktop\NgonNguLT\Ktra\KiemTra\MuaHangSieuThi\obj\Debug\MuaHangSieuThi.csproj.GenerateResource.Cache
+C:\Users\Computer\Desktop\NgonNguLT\Ktra\KiemTra\MuaHangSieuThi\bin\Debug\MuaHangSieuThi.exe.config
+C:\Users\Computer\Desktop\NgonNguLT\Ktra\KiemTra\MuaHangSieuThi\bin\Debug\MuaHangSieuThi.exe
+C:\Users\Computer\Desktop\NgonNguLT\Ktra\KiemTra\MuaHangSieuThi\bin\Debug\MuaHangSieuThi.pdb
+C:\Users\Computer\Desktop\NgonNguLT\Ktra\KiemTra\MuaHangSieuThi\obj\Debug\MuaHangSieuThi.exe
+C:\Users\Computer\Desktop\NgonNguLT\Ktra\KiemTra\MuaHangSieuThi\obj\Debug\MuaHangSieuThi.pdb
+C:\Users\Computer\Desktop\NgonNguLT\Ktra\KiemTra\MuaHangSieuThi\obj\Debug\MuaHangSieuThi.csprojResolveAssemblyReference.cache

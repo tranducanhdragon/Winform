@@ -1,0 +1,8 @@
+C:\Users\Computer\Desktop\NgonNguLT\WindowForm\ViDuWindowForm\OnTapQuanLiSanPham\bin\Debug\OnTapQuanLiSanPham.exe.config
+C:\Users\Computer\Desktop\NgonNguLT\WindowForm\ViDuWindowForm\OnTapQuanLiSanPham\bin\Debug\OnTapQuanLiSanPham.exe
+C:\Users\Computer\Desktop\NgonNguLT\WindowForm\ViDuWindowForm\OnTapQuanLiSanPham\bin\Debug\OnTapQuanLiSanPham.pdb
+C:\Users\Computer\Desktop\NgonNguLT\WindowForm\ViDuWindowForm\OnTapQuanLiSanPham\obj\Debug\OnTapQuanLiSanPham.QuanLiSanPham.resources
+C:\Users\Computer\Desktop\NgonNguLT\WindowForm\ViDuWindowForm\OnTapQuanLiSanPham\obj\Debug\OnTapQuanLiSanPham.Properties.Resources.resources
+C:\Users\Computer\Desktop\NgonNguLT\WindowForm\ViDuWindowForm\OnTapQuanLiSanPham\obj\Debug\OnTapQuanLiSanPham.csproj.GenerateResource.Cache
+C:\Users\Computer\Desktop\NgonNguLT\WindowForm\ViDuWindowForm\OnTapQuanLiSanPham\obj\Debug\OnTapQuanLiSanPham.exe
+C:\Users\Computer\Desktop\NgonNguLT\WindowForm\ViDuWindowForm\OnTapQuanLiSanPham\obj\Debug\OnTapQuanLiSanPham.pdb

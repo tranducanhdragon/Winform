@@ -1,0 +1,10 @@
+C:\Users\Computer\Desktop\NgonNguLT\Ktra\KiemTra\RapChieuPhim\bin\Debug\RapChieuPhim.exe.config
+C:\Users\Computer\Desktop\NgonNguLT\Ktra\KiemTra\RapChieuPhim\bin\Debug\RapChieuPhim.exe
+C:\Users\Computer\Desktop\NgonNguLT\Ktra\KiemTra\RapChieuPhim\bin\Debug\RapChieuPhim.pdb
+C:\Users\Computer\Desktop\NgonNguLT\Ktra\KiemTra\RapChieuPhim\obj\Debug\RapChieuPhim.CGV.resources
+C:\Users\Computer\Desktop\NgonNguLT\Ktra\KiemTra\RapChieuPhim\obj\Debug\RapChieuPhim.Properties.Resources.resources
+C:\Users\Computer\Desktop\NgonNguLT\Ktra\KiemTra\RapChieuPhim\obj\Debug\RapChieuPhim.XacNhan.resources
+C:\Users\Computer\Desktop\NgonNguLT\Ktra\KiemTra\RapChieuPhim\obj\Debug\RapChieuPhim.csproj.GenerateResource.Cache
+C:\Users\Computer\Desktop\NgonNguLT\Ktra\KiemTra\RapChieuPhim\obj\Debug\RapChieuPhim.exe
+C:\Users\Computer\Desktop\NgonNguLT\Ktra\KiemTra\RapChieuPhim\obj\Debug\RapChieuPhim.pdb
+C:\Users\Computer\Desktop\NgonNguLT\Ktra\KiemTra\RapChieuPhim\obj\Debug\RapChieuPhim.csprojResolveAssemblyReference.cache

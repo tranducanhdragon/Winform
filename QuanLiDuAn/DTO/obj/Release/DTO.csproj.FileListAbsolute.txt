@@ -1,0 +1,4 @@
+C:\Users\Computer\Desktop\NgonNguLT\QuanLiDuAn\DTO\bin\Release\DTO.dll
+C:\Users\Computer\Desktop\NgonNguLT\QuanLiDuAn\DTO\bin\Release\DTO.pdb
+C:\Users\Computer\Desktop\NgonNguLT\QuanLiDuAn\DTO\obj\Release\DTO.dll
+C:\Users\Computer\Desktop\NgonNguLT\QuanLiDuAn\DTO\obj\Release\DTO.pdb

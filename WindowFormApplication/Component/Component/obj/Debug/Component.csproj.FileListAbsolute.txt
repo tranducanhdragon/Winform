@@ -1,0 +1,9 @@
+C:\Users\Computer\Desktop\NgonNguLT\WindowFormApplication\Component\Component\bin\Debug\Component.exe.config
+C:\Users\Computer\Desktop\NgonNguLT\WindowFormApplication\Component\Component\bin\Debug\Component.exe
+C:\Users\Computer\Desktop\NgonNguLT\WindowFormApplication\Component\Component\bin\Debug\Component.pdb
+C:\Users\Computer\Desktop\NgonNguLT\WindowFormApplication\Component\Component\obj\Debug\Component.csprojResolveAssemblyReference.cache
+C:\Users\Computer\Desktop\NgonNguLT\WindowFormApplication\Component\Component\obj\Debug\Component.Form1.resources
+C:\Users\Computer\Desktop\NgonNguLT\WindowFormApplication\Component\Component\obj\Debug\Component.Properties.Resources.resources
+C:\Users\Computer\Desktop\NgonNguLT\WindowFormApplication\Component\Component\obj\Debug\Component.csproj.GenerateResource.Cache
+C:\Users\Computer\Desktop\NgonNguLT\WindowFormApplication\Component\Component\obj\Debug\Component.exe
+C:\Users\Computer\Desktop\NgonNguLT\WindowFormApplication\Component\Component\obj\Debug\Component.pdb

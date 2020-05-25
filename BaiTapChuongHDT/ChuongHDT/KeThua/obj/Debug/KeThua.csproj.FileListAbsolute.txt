@@ -1,0 +1,6 @@
+C:\Users\Computer\Desktop\NgonNguLT\BaiTapChuongHDT\ChuongHDT\KeThua\bin\Debug\KeThua.exe.config
+C:\Users\Computer\Desktop\NgonNguLT\BaiTapChuongHDT\ChuongHDT\KeThua\bin\Debug\KeThua.exe
+C:\Users\Computer\Desktop\NgonNguLT\BaiTapChuongHDT\ChuongHDT\KeThua\bin\Debug\KeThua.pdb
+C:\Users\Computer\Desktop\NgonNguLT\BaiTapChuongHDT\ChuongHDT\KeThua\obj\Debug\KeThua.csprojResolveAssemblyReference.cache
+C:\Users\Computer\Desktop\NgonNguLT\BaiTapChuongHDT\ChuongHDT\KeThua\obj\Debug\KeThua.exe
+C:\Users\Computer\Desktop\NgonNguLT\BaiTapChuongHDT\ChuongHDT\KeThua\obj\Debug\KeThua.pdb

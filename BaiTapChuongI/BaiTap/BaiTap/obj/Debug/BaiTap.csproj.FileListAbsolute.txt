@@ -1,0 +1,6 @@
+C:\Users\Computer\Desktop\NgonNguLT\BaiTapChuongI\BaiTap\BaiTap\bin\Debug\BaiTap.exe.config
+C:\Users\Computer\Desktop\NgonNguLT\BaiTapChuongI\BaiTap\BaiTap\bin\Debug\BaiTap.exe
+C:\Users\Computer\Desktop\NgonNguLT\BaiTapChuongI\BaiTap\BaiTap\bin\Debug\BaiTap.pdb
+C:\Users\Computer\Desktop\NgonNguLT\BaiTapChuongI\BaiTap\BaiTap\obj\Debug\BaiTap.csprojResolveAssemblyReference.cache
+C:\Users\Computer\Desktop\NgonNguLT\BaiTapChuongI\BaiTap\BaiTap\obj\Debug\BaiTap.exe
+C:\Users\Computer\Desktop\NgonNguLT\BaiTapChuongI\BaiTap\BaiTap\obj\Debug\BaiTap.pdb
